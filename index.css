@@ -1,0 +1,10 @@
+hr {
+    border: none; /* Elimina el borde predeterminado */
+    height: 3px; /* Establece la altura de la línea */
+    background-color: black; /* Establece el color de fondo en negro */
+}
+
+
+.info{
+    border-radius: 10px;
+}
